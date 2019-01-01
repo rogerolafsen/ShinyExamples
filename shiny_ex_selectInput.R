@@ -49,7 +49,7 @@ SelInput <- function(input, output, session) {
 }
 
 ui <- dashboardPage(
-  dashboardHeader(),
+  dashboardHeader(title ="Example::Modules"),
   dashboardSidebar(
     SelInputUI("nsid", label = "Select Variable")
   ),
