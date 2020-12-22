@@ -1,2 +1,2 @@
-# ShinyExamples
+# ShinyExamples priv git
 Forskjellige eksempler
